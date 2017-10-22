@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\NumbersToString\bin\Debug\NumbersToString.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\NumbersToString\bin\Debug\NumbersToString.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\NumbersToString\bin\Debug\NumbersToString.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\NumbersToString\obj\Debug\NumbersToString.csprojResolveAssemblyReference.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\NumbersToString\obj\Debug\NumbersToString.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\NumbersToString\obj\Debug\NumbersToString.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\NumbersToString\obj\Debug\NumbersToString.pdb

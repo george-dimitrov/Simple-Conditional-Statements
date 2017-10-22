@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Metric-Converter\bin\Debug\Metric-Converter.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Metric-Converter\bin\Debug\Metric-Converter.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Metric-Converter\bin\Debug\Metric-Converter.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Metric-Converter\obj\Debug\Metric-Converter.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Metric-Converter\obj\Debug\Metric-Converter.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Metric-Converter\obj\Debug\Metric-Converter.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Metric-Converter\obj\Debug\Metric-Converter.csprojResolveAssemblyReference.cache

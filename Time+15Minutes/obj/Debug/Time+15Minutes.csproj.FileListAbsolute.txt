@@ -1,0 +1,6 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Time+15Minutes\bin\Debug\Time+15Minutes.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Time+15Minutes\bin\Debug\Time+15Minutes.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Time+15Minutes\bin\Debug\Time+15Minutes.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Time+15Minutes\obj\Debug\Time+15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Time+15Minutes\obj\Debug\Time+15Minutes.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Time+15Minutes\obj\Debug\Time+15Minutes.pdb

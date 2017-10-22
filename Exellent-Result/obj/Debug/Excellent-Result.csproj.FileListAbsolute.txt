@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Exellent-Result\bin\Debug\Exellent-Result.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Exellent-Result\bin\Debug\Exellent-Result.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Exellent-Result\bin\Debug\Exellent-Result.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Exellent-Result\obj\Debug\Excellent-Result.csprojResolveAssemblyReference.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Exellent-Result\obj\Debug\Excellent-Result.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Exellent-Result\obj\Debug\Exellent-Result.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Exellent-Result\obj\Debug\Exellent-Result.pdb

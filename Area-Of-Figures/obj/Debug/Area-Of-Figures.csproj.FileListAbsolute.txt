@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Area-Of-Figures\bin\Debug\Area-Of-Figures.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Area-Of-Figures\bin\Debug\Area-Of-Figures.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Area-Of-Figures\bin\Debug\Area-Of-Figures.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Area-Of-Figures\obj\Debug\Area-Of-Figures.csprojResolveAssemblyReference.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Area-Of-Figures\obj\Debug\Area-Of-Figures.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Area-Of-Figures\obj\Debug\Area-Of-Figures.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Area-Of-Figures\obj\Debug\Area-Of-Figures.pdb

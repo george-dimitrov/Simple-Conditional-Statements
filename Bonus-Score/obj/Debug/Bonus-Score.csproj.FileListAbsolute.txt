@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Bonus-Score\bin\Debug\Bonus-Score.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Bonus-Score\bin\Debug\Bonus-Score.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Bonus-Score\bin\Debug\Bonus-Score.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Bonus-Score\obj\Debug\Bonus-Score.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Bonus-Score\obj\Debug\Bonus-Score.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Bonus-Score\obj\Debug\Bonus-Score.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Bonus-Score\obj\Debug\Bonus-Score.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Harvest\bin\Debug\Harvest.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Harvest\bin\Debug\Harvest.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Harvest\bin\Debug\Harvest.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Harvest\obj\Debug\Harvest.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Harvest\obj\Debug\Harvest.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Harvest\obj\Debug\Harvest.pdb

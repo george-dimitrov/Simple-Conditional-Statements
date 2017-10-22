@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Sleeping-Cat-Tom\bin\Debug\Sleeping-Cat-Tom.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Sleeping-Cat-Tom\bin\Debug\Sleeping-Cat-Tom.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Sleeping-Cat-Tom\bin\Debug\Sleeping-Cat-Tom.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Sleeping-Cat-Tom\obj\Debug\Sleeping-Cat-Tom.csprojResolveAssemblyReference.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Sleeping-Cat-Tom\obj\Debug\Sleeping-Cat-Tom.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Sleeping-Cat-Tom\obj\Debug\Sleeping-Cat-Tom.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Sleeping-Cat-Tom\obj\Debug\Sleeping-Cat-Tom.pdb

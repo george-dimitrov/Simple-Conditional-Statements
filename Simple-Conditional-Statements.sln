@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTimeForTheExam", "OnTimeF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipes-In-A-Pool", "Pipes-In-A-Pool\Pipes-In-A-Pool.csproj", "{66B3B32A-9CE6-419B-9089-25440E3E1813}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sleeping-Cat-Tom", "Sleeping-Cat-Tom\Sleeping-Cat-Tom.csproj", "{B2B6318B-7A0E-4B88-B88E-933CBC322B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harvest", "Harvest\Harvest.csproj", "{8A34342B-56FB-4995-9B3E-1264D66FF627}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{66B3B32A-9CE6-419B-9089-25440E3E1813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66B3B32A-9CE6-419B-9089-25440E3E1813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66B3B32A-9CE6-419B-9089-25440E3E1813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B6318B-7A0E-4B88-B88E-933CBC322B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B6318B-7A0E-4B88-B88E-933CBC322B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B6318B-7A0E-4B88-B88E-933CBC322B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B6318B-7A0E-4B88-B88E-933CBC322B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A34342B-56FB-4995-9B3E-1264D66FF627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A34342B-56FB-4995-9B3E-1264D66FF627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A34342B-56FB-4995-9B3E-1264D66FF627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A34342B-56FB-4995-9B3E-1264D66FF627}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

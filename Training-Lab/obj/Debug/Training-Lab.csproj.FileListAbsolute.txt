@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Training-Lab\bin\Debug\Training-Lab.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Training-Lab\bin\Debug\Training-Lab.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Training-Lab\bin\Debug\Training-Lab.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Training-Lab\obj\Debug\Training-Lab.csprojResolveAssemblyReference.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Training-Lab\obj\Debug\Training-Lab.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Training-Lab\obj\Debug\Training-Lab.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Training-Lab\obj\Debug\Training-Lab.pdb

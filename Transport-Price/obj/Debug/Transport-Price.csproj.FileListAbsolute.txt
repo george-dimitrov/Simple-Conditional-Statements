@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Transport-Price\bin\Debug\Transport-Price.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Transport-Price\bin\Debug\Transport-Price.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Transport-Price\bin\Debug\Transport-Price.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Transport-Price\obj\Debug\Transport-Price.csprojResolveAssemblyReference.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Transport-Price\obj\Debug\Transport-Price.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Transport-Price\obj\Debug\Transport-Price.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Transport-Price\obj\Debug\Transport-Price.pdb

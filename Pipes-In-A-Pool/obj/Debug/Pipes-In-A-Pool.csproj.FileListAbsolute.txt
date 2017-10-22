@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Pipes-In-A-Pool\bin\Debug\Pipes-In-A-Pool.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Pipes-In-A-Pool\bin\Debug\Pipes-In-A-Pool.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Pipes-In-A-Pool\bin\Debug\Pipes-In-A-Pool.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Pipes-In-A-Pool\obj\Debug\Pipes-In-A-Pool.csprojResolveAssemblyReference.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Pipes-In-A-Pool\obj\Debug\Pipes-In-A-Pool.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Pipes-In-A-Pool\obj\Debug\Pipes-In-A-Pool.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Simple-Conditional-Statements\Pipes-In-A-Pool\obj\Debug\Pipes-In-A-Pool.pdb
